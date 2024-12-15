@@ -1,0 +1,13 @@
+﻿  ProgramManager.cpp
+C:\Users\llse3\source\repos\KMU ToDo list\KMU ToDo list\ProgramManager.cpp(17,31): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\llse3\source\repos\KMU ToDo list\KMU ToDo list\ProgramManager.cpp(50,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\llse3\source\repos\KMU ToDo list\KMU ToDo list\ProgramManager.cpp(51,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\llse3\source\repos\KMU ToDo list\KMU ToDo list\ProgramManager.cpp(101,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\llse3\source\repos\KMU ToDo list\KMU ToDo list\ProgramManager.cpp(129,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\llse3\source\repos\KMU ToDo list\KMU ToDo list\ProgramManager.cpp(167,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\llse3\source\repos\KMU ToDo list\KMU ToDo list\ProgramManager.cpp(195,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\llse3\source\repos\KMU ToDo list\KMU ToDo list\ProgramManager.cpp(239,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\llse3\source\repos\KMU ToDo list\KMU ToDo list\ProgramManager.cpp(267,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\llse3\source\repos\KMU ToDo list\KMU ToDo list\ProgramManager.cpp(311,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\llse3\source\repos\KMU ToDo list\KMU ToDo list\ProgramManager.cpp(339,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  KMU ToDo list.vcxproj -> C:\Users\llse3\source\repos\KMU ToDo list\Debug\KMU ToDo list.exe
