@@ -14,8 +14,6 @@ void TODO::SetTitle() {
 	std::cout << "제목을 입력하여 주십시오." << std::endl << ">> ";
 	if (std::cin.peek() == '\n') std::cin.ignore();
 	std::getline(std::cin, title);
-
-	if (title.length() > MaxTitle) MaxTitle = title.length();
 }
 
 void TODO::SetContents() {
@@ -59,11 +57,6 @@ void TODO::SetEndDate() {
 			std::cout << "잘못된 형식입니다. 숫자 8자리로 입력해주세요." << std::endl;
 		}
 	}
-}
-
-void TODO::SetImportance() {
-	std::cout << "중요도를 입력하여 주십시오." << std::endl << ">>";
-	std::cin >> this->importance;
 }
 
 void TODO::SetState(bool state) {

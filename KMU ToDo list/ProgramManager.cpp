@@ -14,7 +14,6 @@ void MANAGER::LoadTasks(const std::string& filename) {
 
 		std::istringstream iss(line);
 		std::getline(iss, tempTodo.title, '|');
-		if (tempTodo.title.length() > MaxTitle) MaxTitle = tempTodo.title.length();
 		std::getline(iss, tempTodo.contents, '|');
 		std::string End_Date;
 		std::getline(iss, End_Date, '|');

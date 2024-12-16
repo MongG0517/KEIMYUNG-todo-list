@@ -5,21 +5,13 @@
 #include <Windows.h>
 #include <conio.h>
 
-static int MaxTitle = 0;
-
 class TODO {
 private:
-
-	int importance;
 
 	void SetTitle();
 	void SetContents();
 	void SetStartDate();
 	void SetEndDate();
-	void SetImportance();
-
-	
-	//int GetImportance();
 
 public:
 	std::string title;
@@ -34,7 +26,6 @@ public:
 	void SetState(bool);
 
 	std::string GetTitle();
-	std::string GetTitleShort();
 	std::string GetContents();
 	std::string GetStartDate();
 	std::string GetEndDate();

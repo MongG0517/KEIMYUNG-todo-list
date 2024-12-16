@@ -17,7 +17,6 @@ public:
 	void DeleteTodo();
 	void ModifyTodo();
 	void FinishTodo();
-	void PrtUi();
 	void StartTodo();
 };
 
